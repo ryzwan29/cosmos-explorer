@@ -7,6 +7,9 @@
     "rpc": [
         {"provider": "Ryddd", "address": "https://testnet-rpc-warden.provewithryd.xyz"}
     ],
+    "grpc": [
+        {"provider": "Ryddd", "address": "https://testnet-grpc-warden.provewithryd.xyz"}
+    ],
     "sdk_version": "0.50.7",
     "coin_type": "118",
     "min_tx_fee": "500",
