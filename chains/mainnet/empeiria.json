@@ -14,7 +14,7 @@
     "coin_type": "118",
     "min_tx_fee": "500",
     "addr_prefix": "warden",
-    "logo": "/logos/warden.png",
+    "logo": "/logos/empeiria.png",
     "assets": [
         {
             "base": "uempe",
