@@ -1,7 +1,9 @@
 {
     "chain_name": "warden",
     "registry_name": "warden",
-    "api": [],
+    "api": [
+        {"provider": "Ryddd", "address": "https://testnet-api-warden.provewithryd.xyz"}
+    ],
     "rpc": [
         {"provider": "Ryddd", "address": "https://testnet-rpc-warden.provewithryd.xyz"}
     ],
