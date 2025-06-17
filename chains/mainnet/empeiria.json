@@ -14,7 +14,7 @@
     "coin_type": "118",
     "min_tx_fee": "500",
     "addr_prefix": "warden",
-    "logo": "/logos/empeiria.png",
+    "logo": "/logos/empeiria.png     ",
     "assets": [
         {
             "base": "uempe",
@@ -27,7 +27,7 @@
     "fees": {
         "fee_tokens": [
         {
-            "denom": "award",
+            "denom": "uempe",
             "fixed_min_gas_price": 20000,
             "low_gas_price": 1,
             "average_gas_price": 1,
